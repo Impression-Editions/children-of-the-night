@@ -214,6 +214,7 @@
 		<itemref idref="chapter-60.xhtml"/>
 		<itemref idref="chapter-61.xhtml"/>
 		<itemref idref="poem-1.xhtml"/>
+		<itemref idref="toc.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
