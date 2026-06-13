@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="chapter-6.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-7.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-8.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
 	<file path="chapter-10.xhtml">
 		<ignore code="y-007">
 			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
@@ -150,27 +165,12 @@
 			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
 		</ignore>
 	</file>
-	<file path="chapter-6.xhtml">
-		<ignore code="y-007">
-			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
-		</ignore>
-	</file>
 	<file path="chapter-60.xhtml">
 		<ignore code="y-007">
 			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
 		</ignore>
 	</file>
 	<file path="chapter-61.xhtml">
-		<ignore code="y-007">
-			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
-		</ignore>
-	</file>
-	<file path="chapter-7.xhtml">
-		<ignore code="y-007">
-			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
-		</ignore>
-	</file>
-	<file path="chapter-8.xhtml">
 		<ignore code="y-007">
 			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
 		</ignore>

@@ -2,13 +2,10 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
-/*
- * Impression Editions — Poetry CSS Template
+/* * Impression Editions — Poetry CSS Template
  * Derived from SE's Robert Louis Stevenson Poetry (May 28, 2026 — SE's newest poetry)
  * For poetry collections, verse, songs
- * Features: poem/song/verse, bridgeheads, images, indentation variants, dedication variants
- */
-
+ * Features: poem/song/verse, bridgeheads, images, indentation variants, dedication variants */
 /* === FOREIGN LANGUAGE === */
 body [xml|lang]{
 	font-style: italic;
@@ -165,10 +162,10 @@ div.stanza:last-child{
 }
 
 div.stanza > div{
+	line-height: 1.4;
 	margin: 0;
 	padding-left: 1em;
 	text-indent: -1em;
-	line-height: 1.4;
 }
 
 div.stanza > div.i0{
@@ -289,7 +286,6 @@ section[id$="text"]{
 	break-before: page;
 }
 
-
 /* === ABOUT THE AUTHOR === */
 section#about-the-author{
 	text-align: left;
@@ -301,7 +297,7 @@ section#about-the-author > h2{
 
 section#about-the-author .center,
 section#about-the-author div[style*="text-align:center"]{
-	margin: 0.3em 0 2.5em 0;
+	margin: .3em 0 2.5em 0;
 	text-align: center;
 }
 
@@ -325,12 +321,13 @@ img.publisher-logo{
 /* Dedication centering */
 section[epub|type~="dedication"],
 section[epub|type~="z3998:dedication"]{
-	text-align: center;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	min-height: 80vh;
+	text-align: center;
 }
+
 section[epub|type~="dedication"] p,
 section[epub|type~="z3998:dedication"] p{
 	margin: auto;
