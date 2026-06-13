@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-10.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-13.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-14.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-15.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-17.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-18.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-22.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-24.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-27.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-28.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-29.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-30.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-32.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-34.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-35.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-38.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-40.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-41.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-43.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-48.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-49.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-50.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-51.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-52.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-53.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-54.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-55.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-56.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-57.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-59.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-6.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-60.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-61.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-7.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="chapter-8.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="poem-1.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+	<file path="uncopyright.xhtml">
+		<ignore code="y-007">
+			<reason>Source uses single curly quotes for speech; preserve original spelling</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
