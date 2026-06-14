@@ -203,6 +203,7 @@
 		<itemref idref="chapter-60.xhtml"/>
 		<itemref idref="chapter-61.xhtml"/>
 		<itemref idref="chapter-62.xhtml"/>
+		<itemref idref="toc.xhtml"/>
 		<itemref idref="about-the-author.xhtml"/>
 		<itemref idref="permissions.xhtml"/>
 	</spine>
