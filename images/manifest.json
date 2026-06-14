@@ -15,7 +15,8 @@
     "credit": null,
     "title": "Patriotic illustration of children - C.M. Burd - 1921.jpg",
     "source": "Wikimedia Commons",
-    "license": "Public Domain"
+    "license": "Public Domain",
+    "override": "cover-override/cover.jpg"
   },
   "placements": []
 }
