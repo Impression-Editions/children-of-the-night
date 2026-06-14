@@ -2,19 +2,13 @@
   "title": "Children of the Night",
   "author": "Edwin Arlington Robinson",
   "model": "google/gemini-3.1-flash-lite",
-  "files_reviewed": 59,
+  "files_reviewed": 58,
   "issues": [
     {
       "type": "review_error",
       "quote": "",
       "description": "LLM call failed: LLM API call failed after 3 retries: 403 Client Error: Forbidden for url: https://openrouter.ai/api/v1/chat/completions",
       "file": "about-the-author.xhtml"
-    },
-    {
-      "type": "review_error",
-      "quote": "",
-      "description": "LLM call failed: LLM API call failed after 3 retries: 403 Client Error: Forbidden for url: https://openrouter.ai/api/v1/chat/completions",
-      "file": "chapter-1.xhtml"
     },
     {
       "type": "review_error",
@@ -338,6 +332,12 @@
       "type": "review_error",
       "quote": "",
       "description": "LLM call failed: LLM API call failed after 3 retries: 403 Client Error: Forbidden for url: https://openrouter.ai/api/v1/chat/completions",
+      "file": "chapter-62.xhtml"
+    },
+    {
+      "type": "review_error",
+      "quote": "",
+      "description": "LLM call failed: LLM API call failed after 3 retries: 403 Client Error: Forbidden for url: https://openrouter.ai/api/v1/chat/completions",
       "file": "chapter-7.xhtml"
     },
     {
@@ -351,13 +351,7 @@
       "quote": "",
       "description": "LLM call failed: LLM API call failed after 3 retries: 403 Client Error: Forbidden for url: https://openrouter.ai/api/v1/chat/completions",
       "file": "chapter-9.xhtml"
-    },
-    {
-      "type": "review_error",
-      "quote": "",
-      "description": "LLM call failed: LLM API call failed after 3 retries: 403 Client Error: Forbidden for url: https://openrouter.ai/api/v1/chat/completions",
-      "file": "poem-1.xhtml"
     }
   ],
-  "total_issues": 59
+  "total_issues": 58
 }
