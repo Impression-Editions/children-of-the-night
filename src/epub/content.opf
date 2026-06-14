@@ -145,7 +145,7 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="about-the-author.xhtml"/>
+		<itemref idref="dedication.xhtml"/>
 		<itemref idref="chapter-6.xhtml"/>
 		<itemref idref="chapter-7.xhtml"/>
 		<itemref idref="chapter-8.xhtml"/>
@@ -202,9 +202,8 @@
 		<itemref idref="chapter-59.xhtml"/>
 		<itemref idref="chapter-60.xhtml"/>
 		<itemref idref="chapter-61.xhtml"/>
-		<itemref idref="dedication.xhtml"/>
-		<itemref idref="poem-1.xhtml"/>
-		<itemref idref="toc.xhtml"/>
+		<itemref idref="chapter-62.xhtml"/>
+		<itemref idref="about-the-author.xhtml"/>
 		<itemref idref="permissions.xhtml"/>
 	</spine>
 </package>
