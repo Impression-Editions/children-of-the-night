@@ -1,6 +1,6 @@
 ============================================================
 IMPRESSION EDITIONS — Review Report
-Generated: 2026-06-13 21:26:08
+Generated: 2026-06-14 00:09:45
 ============================================================
 
 --- Remaining Lint Errors ---
@@ -10,60 +10,20 @@ Generated: 2026-06-13 21:26:08
 [UNFIXABLE] │       │               │                        │ class.                      │
 [UNFIXABLE] │       │               │                Line 11 │ <figure                     │
 [UNFIXABLE] │       │               │                        │ class="author-portrait">    │
-[UNFIXABLE] │ m-045 │ Error         │ about-the-author.xhtml │ Heading not found in the    │
-[UNFIXABLE] │       │               │                        │ ToC.                        │
-[UNFIXABLE] │       │               │                 Line 4 │ About the Author            │
 [UNFIXABLE] │ s-033 │ Manual Review │ about-the-author.xhtml │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
 [UNFIXABLE] │       │               │                 Line 2 │ Found: en-GB                │
 [UNFIXABLE] │       │               │                        │ Expected: en-US             │
-[UNFIXABLE] │ x-012 │ Error         │ about-the-author.xhtml │ Illegal style attribute.    │
-[UNFIXABLE] │       │               │                        │ Hint: Don’t use inline      │
-[UNFIXABLE] │       │               │                        │ styles; any element can be  │
-[UNFIXABLE] │       │               │                        │ targeted with a thoughtful  │
-[UNFIXABLE] │       │               │                        │ selector.                   │
-[UNFIXABLE] │       │               │                Line 15 │ <p style="font-size:        │
-[UNFIXABLE] │       │               │                        │ 0.85em; color: #666;">      │
 [UNFIXABLE] │ x-021 │ Error         │ about-the-author.xhtml │ <figure> element with no id │
 [UNFIXABLE] │       │               │                        │ attribute.                  │
 [UNFIXABLE] │       │               │                Line 11 │ <figure                     │
 [UNFIXABLE] │       │               │                        │ class="author-portrait">    │
-[UNFIXABLE] │       │               │                        │         <img                │
+[UNFIXABLE] │       │               │                        │         <img alt="Portrait  │
+[UNFIXABLE] │       │               │                        │ of Edwin Arlington          │
+[UNFIXABLE] │       │               │                        │ Robinson."                  │
 [UNFIXABLE] │       │               │                        │ src="../images/author-port… │
-[UNFIXABLE] │       │               │                        │ alt="Portrait of Edwin      │
-[UNFIXABLE] │       │               │                        │ Arlington Robinson."/>      │
 [UNFIXABLE] │       │               │                        │ </figure>                   │
-[UNFIXABLE] │ y-002 │ Manual Review │ about-the-author.xhtml │ Possible typo: Punctuation  │
-[UNFIXABLE] │       │               │                        │ followed directly by a      │
-[UNFIXABLE] │       │               │                        │ letter, without a space.    │
-[UNFIXABLE] │       │               │                Line 15 │ <p style="font-size:        │
-[UNFIXABLE] │       │               │                        │ 0.85em; color:              │
-[UNFIXABLE] │       │               │                        │ #666;">Biographical         │
-[UNFIXABLE] │       │               │                        │ information from <a         │
-[UNFIXABLE] │       │               │                        │ href="https://en.wikipedia… │
-[UNFIXABLE] │       │               │                        │ CC&amp;nbsp;BY-SA&amp;nbsp… │
-[UNFIXABLE] │ s-008 │ Error         │ chapter-1.xhtml        │ <br/> element found before  │
-[UNFIXABLE] │       │               │                        │ closing tag of block-level  │
-[UNFIXABLE] │       │               │                        │ element.                    │
-[UNFIXABLE] │       │               │                Line 11 │ <p>                         │
-[UNFIXABLE] │ s-033 │ Manual Review │ chapter-1.xhtml        │ xml:lang value on <html>    │
-[UNFIXABLE] │       │               │                        │ element doesn’t match       │
-[UNFIXABLE] │       │               │                        │ language set in metadata.   │
-[UNFIXABLE] │       │               │                 Line 2 │ Found: en-GB                │
-[UNFIXABLE] │       │               │                        │ Expected: en-US             │
-[UNFIXABLE] │ s-046 │ Manual Review │ chapter-1.xhtml        │ <p> element containing only │
-[UNFIXABLE] │       │               │                        │ <span> and <br> elements,   │
-[UNFIXABLE] │       │               │                        │ but its parent doesn’t have │
-[UNFIXABLE] │       │               │                        │ the z3998:poem,             │
-[UNFIXABLE] │       │               │                        │ z3998:verse, z3998:song,    │
-[UNFIXABLE] │       │               │                        │ z3998:hymn, or z3998:lyrics │
-[UNFIXABLE] │       │               │                        │ semantic. Hint: Multi-line  │
-[UNFIXABLE] │       │               │                        │ clauses that aren’t verse   │
-[UNFIXABLE] │       │               │                        │ don’t require <span>s.      │
-[UNFIXABLE] │       │               │                Line 11 │ <p>                         │
-[UNFIXABLE] │       │               │                        │         <br/>               │
-[UNFIXABLE] │       │               │                        │ </p>                        │
 [UNFIXABLE] │ s-033 │ Manual Review │ chapter-6.xhtml        │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
@@ -281,6 +241,9 @@ Generated: 2026-06-13 21:26:08
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
 [UNFIXABLE] │       │               │                 Line 2 │ Found: en-GB                │
 [UNFIXABLE] │       │               │                        │ Expected: en-US             │
+[UNFIXABLE] │ t-041 │ Error         │ chapter-25.xhtml       │ Illegal space before        │
+[UNFIXABLE] │       │               │                        │ punctuation.                │
+[UNFIXABLE] │       │               │                Line 25 │ s ;</div>                   │
 [UNFIXABLE] │ s-033 │ Manual Review │ chapter-26.xhtml       │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
@@ -301,10 +264,6 @@ Generated: 2026-06-13 21:26:08
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
 [UNFIXABLE] │       │               │                 Line 2 │ Found: en-GB                │
 [UNFIXABLE] │       │               │                        │ Expected: en-US             │
-[UNFIXABLE] │ t-041 │ Error         │ chapter-29.xhtml       │ Illegal space before        │
-[UNFIXABLE] │       │               │                        │ punctuation.                │
-[UNFIXABLE] │       │               │                Line 17 │ k ;</div>                   │
-[UNFIXABLE] │       │               │                Line 25 │ f ;</div>                   │
 [UNFIXABLE] │ s-033 │ Manual Review │ chapter-30.xhtml       │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
@@ -312,8 +271,8 @@ Generated: 2026-06-13 21:26:08
 [UNFIXABLE] │       │               │                        │ Expected: en-US             │
 [UNFIXABLE] │ t-041 │ Error         │ chapter-30.xhtml       │ Illegal space before        │
 [UNFIXABLE] │       │               │                        │ punctuation.                │
-[UNFIXABLE] │       │               │                Line 14 │ s ;</div>                   │
-[UNFIXABLE] │       │               │                Line 24 │ d ;</div>                   │
+[UNFIXABLE] │       │               │                Line 17 │ k ;</div>                   │
+[UNFIXABLE] │       │               │                Line 25 │ f ;</div>                   │
 [UNFIXABLE] │ s-033 │ Manual Review │ chapter-31.xhtml       │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
@@ -321,7 +280,8 @@ Generated: 2026-06-13 21:26:08
 [UNFIXABLE] │       │               │                        │ Expected: en-US             │
 [UNFIXABLE] │ t-041 │ Error         │ chapter-31.xhtml       │ Illegal space before        │
 [UNFIXABLE] │       │               │                        │ punctuation.                │
-[UNFIXABLE] │       │               │                Line 14 │ y ; and after               │
+[UNFIXABLE] │       │               │                Line 14 │ s ;</div>                   │
+[UNFIXABLE] │       │               │                Line 24 │ d ;</div>                   │
 [UNFIXABLE] │ s-033 │ Manual Review │ chapter-32.xhtml       │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
@@ -329,9 +289,7 @@ Generated: 2026-06-13 21:26:08
 [UNFIXABLE] │       │               │                        │ Expected: en-US             │
 [UNFIXABLE] │ t-041 │ Error         │ chapter-32.xhtml       │ Illegal space before        │
 [UNFIXABLE] │       │               │                        │ punctuation.                │
-[UNFIXABLE] │       │               │                Line 16 │ d :</div>                   │
-[UNFIXABLE] │       │               │                Line 18 │ d ;</div>                   │
-[UNFIXABLE] │       │               │                Line 25 │ s : we were o               │
+[UNFIXABLE] │       │               │                Line 14 │ y ; and after               │
 [UNFIXABLE] │ s-033 │ Manual Review │ chapter-33.xhtml       │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
@@ -339,8 +297,9 @@ Generated: 2026-06-13 21:26:08
 [UNFIXABLE] │       │               │                        │ Expected: en-US             │
 [UNFIXABLE] │ t-041 │ Error         │ chapter-33.xhtml       │ Illegal space before        │
 [UNFIXABLE] │       │               │                        │ punctuation.                │
-[UNFIXABLE] │       │               │                Line 16 │ y ;</div>                   │
-[UNFIXABLE] │       │               │                Line 22 │ n ;</div>                   │
+[UNFIXABLE] │       │               │                Line 16 │ d :</div>                   │
+[UNFIXABLE] │       │               │                Line 18 │ d ;</div>                   │
+[UNFIXABLE] │       │               │                Line 25 │ s : we were o               │
 [UNFIXABLE] │ s-033 │ Manual Review │ chapter-34.xhtml       │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
@@ -348,7 +307,8 @@ Generated: 2026-06-13 21:26:08
 [UNFIXABLE] │       │               │                        │ Expected: en-US             │
 [UNFIXABLE] │ t-041 │ Error         │ chapter-34.xhtml       │ Illegal space before        │
 [UNFIXABLE] │       │               │                        │ punctuation.                │
-[UNFIXABLE] │       │               │                Line 25 │ h ;</div>                   │
+[UNFIXABLE] │       │               │                Line 16 │ y ;</div>                   │
+[UNFIXABLE] │       │               │                Line 22 │ n ;</div>                   │
 [UNFIXABLE] │ s-033 │ Manual Review │ chapter-35.xhtml       │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
@@ -356,7 +316,7 @@ Generated: 2026-06-13 21:26:08
 [UNFIXABLE] │       │               │                        │ Expected: en-US             │
 [UNFIXABLE] │ t-041 │ Error         │ chapter-35.xhtml       │ Illegal space before        │
 [UNFIXABLE] │       │               │                        │ punctuation.                │
-[UNFIXABLE] │       │               │                Line 24 │ n ;</div>                   │
+[UNFIXABLE] │       │               │                Line 25 │ h ;</div>                   │
 [UNFIXABLE] │ s-033 │ Manual Review │ chapter-36.xhtml       │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
@@ -364,9 +324,7 @@ Generated: 2026-06-13 21:26:08
 [UNFIXABLE] │       │               │                        │ Expected: en-US             │
 [UNFIXABLE] │ t-041 │ Error         │ chapter-36.xhtml       │ Illegal space before        │
 [UNFIXABLE] │       │               │                        │ punctuation.                │
-[UNFIXABLE] │       │               │                Line 14 │ n ; but there               │
-[UNFIXABLE] │       │               │                Line 19 │ m ; but the m               │
-[UNFIXABLE] │       │               │                Line 23 │ s ?</div>                   │
+[UNFIXABLE] │       │               │                Line 24 │ n ;</div>                   │
 [UNFIXABLE] │ s-033 │ Manual Review │ chapter-37.xhtml       │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
@@ -374,11 +332,9 @@ Generated: 2026-06-13 21:26:08
 [UNFIXABLE] │       │               │                        │ Expected: en-US             │
 [UNFIXABLE] │ t-041 │ Error         │ chapter-37.xhtml       │ Illegal space before        │
 [UNFIXABLE] │       │               │                        │ punctuation.                │
-[UNFIXABLE] │       │               │                Line 14 │ e ; but the f               │
-[UNFIXABLE] │       │               │                Line 15 │ o ! ”</div>                 │
-[UNFIXABLE] │       │               │                Line 18 │ y ;⁠—I only k                │
-[UNFIXABLE] │       │               │                Line 22 │ m ; and there               │
-[UNFIXABLE] │       │               │                Line 23 │ e :</div>                   │
+[UNFIXABLE] │       │               │                Line 14 │ n ; but there               │
+[UNFIXABLE] │       │               │                Line 19 │ m ; but the m               │
+[UNFIXABLE] │       │               │                Line 23 │ s ?</div>                   │
 [UNFIXABLE] │ s-033 │ Manual Review │ chapter-38.xhtml       │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
@@ -386,9 +342,11 @@ Generated: 2026-06-13 21:26:08
 [UNFIXABLE] │       │               │                        │ Expected: en-US             │
 [UNFIXABLE] │ t-041 │ Error         │ chapter-38.xhtml       │ Illegal space before        │
 [UNFIXABLE] │       │               │                        │ punctuation.                │
-[UNFIXABLE] │       │               │                Line 14 │ d ; round me,               │
-[UNFIXABLE] │       │               │                Line 22 │ m :</div>                   │
-[UNFIXABLE] │       │               │                Line 24 │ e ; and, with               │
+[UNFIXABLE] │       │               │                Line 14 │ e ; but the f               │
+[UNFIXABLE] │       │               │                Line 15 │ o ! ”</div>                 │
+[UNFIXABLE] │       │               │                Line 18 │ y ;⁠—I only k                │
+[UNFIXABLE] │       │               │                Line 22 │ m ; and there               │
+[UNFIXABLE] │       │               │                Line 23 │ e :</div>                   │
 [UNFIXABLE] │ s-033 │ Manual Review │ chapter-39.xhtml       │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
@@ -396,16 +354,26 @@ Generated: 2026-06-13 21:26:08
 [UNFIXABLE] │       │               │                        │ Expected: en-US             │
 [UNFIXABLE] │ t-041 │ Error         │ chapter-39.xhtml       │ Illegal space before        │
 [UNFIXABLE] │       │               │                        │ punctuation.                │
-[UNFIXABLE] │       │               │                Line 16 │ n :</div>                   │
-[UNFIXABLE] │       │               │                Line 17 │ n ;</div>                   │
-[UNFIXABLE] │       │               │                Line 21 │ m ; but anon                │
-[UNFIXABLE] │       │               │                Line 22 │ t ;</div>                   │
+[UNFIXABLE] │       │               │                Line 14 │ d ; round me,               │
+[UNFIXABLE] │       │               │                Line 22 │ m :</div>                   │
+[UNFIXABLE] │       │               │                Line 24 │ e ; and, with               │
 [UNFIXABLE] │ s-033 │ Manual Review │ chapter-40.xhtml       │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
 [UNFIXABLE] │       │               │                 Line 2 │ Found: en-GB                │
 [UNFIXABLE] │       │               │                        │ Expected: en-US             │
 [UNFIXABLE] │ t-041 │ Error         │ chapter-40.xhtml       │ Illegal space before        │
+[UNFIXABLE] │       │               │                        │ punctuation.                │
+[UNFIXABLE] │       │               │                Line 16 │ n :</div>                   │
+[UNFIXABLE] │       │               │                Line 17 │ n ;</div>                   │
+[UNFIXABLE] │       │               │                Line 21 │ m ; but anon                │
+[UNFIXABLE] │       │               │                Line 22 │ t ;</div>                   │
+[UNFIXABLE] │ s-033 │ Manual Review │ chapter-41.xhtml       │ xml:lang value on <html>    │
+[UNFIXABLE] │       │               │                        │ element doesn’t match       │
+[UNFIXABLE] │       │               │                        │ language set in metadata.   │
+[UNFIXABLE] │       │               │                 Line 2 │ Found: en-GB                │
+[UNFIXABLE] │       │               │                        │ Expected: en-US             │
+[UNFIXABLE] │ t-041 │ Error         │ chapter-41.xhtml       │ Illegal space before        │
 [UNFIXABLE] │       │               │                        │ punctuation.                │
 [UNFIXABLE] │       │               │                Line 16 │ d ;</div>                   │
 [UNFIXABLE] │       │               │                Line 17 │ d ;</div>                   │
@@ -414,16 +382,6 @@ Generated: 2026-06-13 21:26:08
 [UNFIXABLE] │       │               │                Line 19 │ y ; and the w               │
 [UNFIXABLE] │       │               │                Line 23 │ l ;</div>                   │
 [UNFIXABLE] │       │               │                Line 26 │ y ?</div>                   │
-[UNFIXABLE] │ s-033 │ Manual Review │ chapter-41.xhtml       │ xml:lang value on <html>    │
-[UNFIXABLE] │       │               │                        │ element doesn’t match       │
-[UNFIXABLE] │       │               │                        │ language set in metadata.   │
-[UNFIXABLE] │       │               │                 Line 2 │ Found: en-GB                │
-[UNFIXABLE] │       │               │                        │ Expected: en-US             │
-[UNFIXABLE] │ t-041 │ Error         │ chapter-41.xhtml       │ Illegal space before        │
-[UNFIXABLE] │       │               │                        │ punctuation.                │
-[UNFIXABLE] │       │               │                Line 18 │ y :⁠—whether                 │
-[UNFIXABLE] │       │               │                Line 23 │ s ; for while               │
-[UNFIXABLE] │       │               │                Line 24 │ g ;⁠—</div>                  │
 [UNFIXABLE] │ s-033 │ Manual Review │ chapter-42.xhtml       │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
@@ -431,7 +389,9 @@ Generated: 2026-06-13 21:26:08
 [UNFIXABLE] │       │               │                        │ Expected: en-US             │
 [UNFIXABLE] │ t-041 │ Error         │ chapter-42.xhtml       │ Illegal space before        │
 [UNFIXABLE] │       │               │                        │ punctuation.                │
-[UNFIXABLE] │       │               │                Line 16 │ I ;</div>                   │
+[UNFIXABLE] │       │               │                Line 18 │ y :⁠—whether                 │
+[UNFIXABLE] │       │               │                Line 23 │ s ; for while               │
+[UNFIXABLE] │       │               │                Line 24 │ g ;⁠—</div>                  │
 [UNFIXABLE] │ s-033 │ Manual Review │ chapter-43.xhtml       │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
@@ -439,7 +399,7 @@ Generated: 2026-06-13 21:26:08
 [UNFIXABLE] │       │               │                        │ Expected: en-US             │
 [UNFIXABLE] │ t-041 │ Error         │ chapter-43.xhtml       │ Illegal space before        │
 [UNFIXABLE] │       │               │                        │ punctuation.                │
-[UNFIXABLE] │       │               │                Line 21 │ s ! I said⁠—t                │
+[UNFIXABLE] │       │               │                Line 16 │ I ;</div>                   │
 [UNFIXABLE] │ s-033 │ Manual Review │ chapter-44.xhtml       │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
@@ -447,48 +407,46 @@ Generated: 2026-06-13 21:26:08
 [UNFIXABLE] │       │               │                        │ Expected: en-US             │
 [UNFIXABLE] │ t-041 │ Error         │ chapter-44.xhtml       │ Illegal space before        │
 [UNFIXABLE] │       │               │                        │ punctuation.                │
-[UNFIXABLE] │       │               │                Line 16 │ e ;</div>                   │
-[UNFIXABLE] │ s-010 │ Error         │ chapter-45.xhtml       │ Empty element. Hint: Use    │
-[UNFIXABLE] │       │               │                        │ <hr/> for thematic breaks   │
-[UNFIXABLE] │       │               │                        │ if appropriate.             │
-[UNFIXABLE] │       │               │                 Line 9 │ <a id="link2H-4-0043"/>     │
+[UNFIXABLE] │       │               │                Line 21 │ s ! I said⁠—t                │
 [UNFIXABLE] │ s-033 │ Manual Review │ chapter-45.xhtml       │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
 [UNFIXABLE] │       │               │                 Line 2 │ Found: en-GB                │
 [UNFIXABLE] │       │               │                        │ Expected: en-US             │
-[UNFIXABLE] │ s-097 │ Error         │ chapter-45.xhtml       │ <a> element without href    │
-[UNFIXABLE] │       │               │                        │ attribute.                  │
+[UNFIXABLE] │ t-041 │ Error         │ chapter-45.xhtml       │ Illegal space before        │
+[UNFIXABLE] │       │               │                        │ punctuation.                │
+[UNFIXABLE] │       │               │                Line 16 │ e ;</div>                   │
+[UNFIXABLE] │ s-010 │ Error         │ chapter-46.xhtml       │ Empty element. Hint: Use    │
+[UNFIXABLE] │       │               │                        │ <hr/> for thematic breaks   │
+[UNFIXABLE] │       │               │                        │ if appropriate.             │
 [UNFIXABLE] │       │               │                 Line 9 │ <a id="link2H-4-0043"/>     │
-[UNFIXABLE] │ x-002 │ Error         │ chapter-45.xhtml       │ Uppercase in attribute      │
-[UNFIXABLE] │       │               │                        │ value. Hint: Attribute      │
-[UNFIXABLE] │       │               │                        │ values must be all          │
-[UNFIXABLE] │       │               │                        │ lowercase.                  │
-[UNFIXABLE] │       │               │                 Line 9 │ <a id="link2H-4-0043">      │
-[UNFIXABLE] │ x-009 │ Error         │ chapter-45.xhtml       │ Illegal leading 0 in id     │
-[UNFIXABLE] │       │               │                        │ attribute.                  │
-[UNFIXABLE] │       │               │                 Line 9 │ <a id="link2H-4-0043">      │
-[UNFIXABLE] │ x-018 │ Error         │ chapter-45.xhtml       │ Unused id attribute.        │
-[UNFIXABLE] │       │               │                 Line 9 │ <a id="link2H-4-0043">      │
-[UNFIXABLE] │ x-019 │ Error         │ chapter-45.xhtml       │ Unexpected value of id      │
-[UNFIXABLE] │       │               │                        │ attribute.                  │
-[UNFIXABLE] │       │               │                 Line 9 │ Found: link2H-4-0043        │
-[UNFIXABLE] │       │               │                        │ Expected: chapter-45-a-1    │
 [UNFIXABLE] │ s-033 │ Manual Review │ chapter-46.xhtml       │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
 [UNFIXABLE] │       │               │                 Line 2 │ Found: en-GB                │
 [UNFIXABLE] │       │               │                        │ Expected: en-US             │
+[UNFIXABLE] │ s-097 │ Error         │ chapter-46.xhtml       │ <a> element without href    │
+[UNFIXABLE] │       │               │                        │ attribute.                  │
+[UNFIXABLE] │       │               │                 Line 9 │ <a id="link2H-4-0043"/>     │
+[UNFIXABLE] │ x-002 │ Error         │ chapter-46.xhtml       │ Uppercase in attribute      │
+[UNFIXABLE] │       │               │                        │ value. Hint: Attribute      │
+[UNFIXABLE] │       │               │                        │ values must be all          │
+[UNFIXABLE] │       │               │                        │ lowercase.                  │
+[UNFIXABLE] │       │               │                 Line 9 │ <a id="link2H-4-0043">      │
+[UNFIXABLE] │ x-009 │ Error         │ chapter-46.xhtml       │ Illegal leading 0 in id     │
+[UNFIXABLE] │       │               │                        │ attribute.                  │
+[UNFIXABLE] │       │               │                 Line 9 │ <a id="link2H-4-0043">      │
+[UNFIXABLE] │ x-018 │ Error         │ chapter-46.xhtml       │ Unused id attribute.        │
+[UNFIXABLE] │       │               │                 Line 9 │ <a id="link2H-4-0043">      │
+[UNFIXABLE] │ x-019 │ Error         │ chapter-46.xhtml       │ Unexpected value of id      │
+[UNFIXABLE] │       │               │                        │ attribute.                  │
+[UNFIXABLE] │       │               │                 Line 9 │ Found: link2H-4-0043        │
+[UNFIXABLE] │       │               │                        │ Expected: chapter-46-a-1    │
 [UNFIXABLE] │ s-033 │ Manual Review │ chapter-47.xhtml       │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
 [UNFIXABLE] │       │               │                 Line 2 │ Found: en-GB                │
 [UNFIXABLE] │       │               │                        │ Expected: en-US             │
-[UNFIXABLE] │ t-041 │ Error         │ chapter-47.xhtml       │ Illegal space before        │
-[UNFIXABLE] │       │               │                        │ punctuation.                │
-[UNFIXABLE] │       │               │                Line 14 │ e ;</div>                   │
-[UNFIXABLE] │       │               │                Line 23 │ t ;</div>                   │
-[UNFIXABLE] │       │               │                Line 26 │ t !</div>                   │
 [UNFIXABLE] │ s-033 │ Manual Review │ chapter-48.xhtml       │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
@@ -497,43 +455,53 @@ Generated: 2026-06-13 21:26:08
 [UNFIXABLE] │ t-041 │ Error         │ chapter-48.xhtml       │ Illegal space before        │
 [UNFIXABLE] │       │               │                        │ punctuation.                │
 [UNFIXABLE] │       │               │                Line 14 │ e ;</div>                   │
-[UNFIXABLE] │ s-010 │ Error         │ chapter-49.xhtml       │ Empty element. Hint: Use    │
-[UNFIXABLE] │       │               │                        │ <hr/> for thematic breaks   │
-[UNFIXABLE] │       │               │                        │ if appropriate.             │
-[UNFIXABLE] │       │               │                 Line 9 │ <a id="link2H-4-0047"/>     │
+[UNFIXABLE] │       │               │                Line 23 │ t ;</div>                   │
+[UNFIXABLE] │       │               │                Line 26 │ t !</div>                   │
 [UNFIXABLE] │ s-033 │ Manual Review │ chapter-49.xhtml       │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
 [UNFIXABLE] │       │               │                 Line 2 │ Found: en-GB                │
 [UNFIXABLE] │       │               │                        │ Expected: en-US             │
-[UNFIXABLE] │ s-097 │ Error         │ chapter-49.xhtml       │ <a> element without href    │
-[UNFIXABLE] │       │               │                        │ attribute.                  │
+[UNFIXABLE] │ t-041 │ Error         │ chapter-49.xhtml       │ Illegal space before        │
+[UNFIXABLE] │       │               │                        │ punctuation.                │
+[UNFIXABLE] │       │               │                Line 14 │ e ;</div>                   │
+[UNFIXABLE] │ s-010 │ Error         │ chapter-50.xhtml       │ Empty element. Hint: Use    │
+[UNFIXABLE] │       │               │                        │ <hr/> for thematic breaks   │
+[UNFIXABLE] │       │               │                        │ if appropriate.             │
 [UNFIXABLE] │       │               │                 Line 9 │ <a id="link2H-4-0047"/>     │
-[UNFIXABLE] │ x-002 │ Error         │ chapter-49.xhtml       │ Uppercase in attribute      │
-[UNFIXABLE] │       │               │                        │ value. Hint: Attribute      │
-[UNFIXABLE] │       │               │                        │ values must be all          │
-[UNFIXABLE] │       │               │                        │ lowercase.                  │
-[UNFIXABLE] │       │               │                 Line 9 │ <a id="link2H-4-0047">      │
-[UNFIXABLE] │ x-009 │ Error         │ chapter-49.xhtml       │ Illegal leading 0 in id     │
-[UNFIXABLE] │       │               │                        │ attribute.                  │
-[UNFIXABLE] │       │               │                 Line 9 │ <a id="link2H-4-0047">      │
-[UNFIXABLE] │ x-018 │ Error         │ chapter-49.xhtml       │ Unused id attribute.        │
-[UNFIXABLE] │       │               │                 Line 9 │ <a id="link2H-4-0047">      │
-[UNFIXABLE] │ x-019 │ Error         │ chapter-49.xhtml       │ Unexpected value of id      │
-[UNFIXABLE] │       │               │                        │ attribute.                  │
-[UNFIXABLE] │       │               │                 Line 9 │ Found: link2H-4-0047        │
-[UNFIXABLE] │       │               │                        │ Expected: chapter-49-a-1    │
 [UNFIXABLE] │ s-033 │ Manual Review │ chapter-50.xhtml       │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
 [UNFIXABLE] │       │               │                 Line 2 │ Found: en-GB                │
 [UNFIXABLE] │       │               │                        │ Expected: en-US             │
+[UNFIXABLE] │ s-097 │ Error         │ chapter-50.xhtml       │ <a> element without href    │
+[UNFIXABLE] │       │               │                        │ attribute.                  │
+[UNFIXABLE] │       │               │                 Line 9 │ <a id="link2H-4-0047"/>     │
+[UNFIXABLE] │ x-002 │ Error         │ chapter-50.xhtml       │ Uppercase in attribute      │
+[UNFIXABLE] │       │               │                        │ value. Hint: Attribute      │
+[UNFIXABLE] │       │               │                        │ values must be all          │
+[UNFIXABLE] │       │               │                        │ lowercase.                  │
+[UNFIXABLE] │       │               │                 Line 9 │ <a id="link2H-4-0047">      │
+[UNFIXABLE] │ x-009 │ Error         │ chapter-50.xhtml       │ Illegal leading 0 in id     │
+[UNFIXABLE] │       │               │                        │ attribute.                  │
+[UNFIXABLE] │       │               │                 Line 9 │ <a id="link2H-4-0047">      │
+[UNFIXABLE] │ x-018 │ Error         │ chapter-50.xhtml       │ Unused id attribute.        │
+[UNFIXABLE] │       │               │                 Line 9 │ <a id="link2H-4-0047">      │
+[UNFIXABLE] │ x-019 │ Error         │ chapter-50.xhtml       │ Unexpected value of id      │
+[UNFIXABLE] │       │               │                        │ attribute.                  │
+[UNFIXABLE] │       │               │                 Line 9 │ Found: link2H-4-0047        │
+[UNFIXABLE] │       │               │                        │ Expected: chapter-50-a-1    │
 [UNFIXABLE] │ s-033 │ Manual Review │ chapter-51.xhtml       │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
 [UNFIXABLE] │       │               │                 Line 2 │ Found: en-GB                │
 [UNFIXABLE] │       │               │                        │ Expected: en-US             │
-[UNFIXABLE] │ t-041 │ Error         │ chapter-51.xhtml       │ Illegal space before        │
+[UNFIXABLE] │ s-033 │ Manual Review │ chapter-52.xhtml       │ xml:lang value on <html>    │
+[UNFIXABLE] │       │               │                        │ element doesn’t match       │
+[UNFIXABLE] │       │               │                        │ language set in metadata.   │
+[UNFIXABLE] │       │               │                 Line 2 │ Found: en-GB                │
+[UNFIXABLE] │       │               │                        │ Expected: en-US             │
+[UNFIXABLE] │ t-041 │ Error         │ chapter-52.xhtml       │ Illegal space before        │
 [UNFIXABLE] │       │               │                        │ punctuation.                │
 [UNFIXABLE] │       │               │                Line 14 │ y ;</div>                   │
 [UNFIXABLE] │       │               │                Line 16 │ t ;</div>                   │
@@ -545,22 +513,22 @@ Generated: 2026-06-13 21:26:08
 [UNFIXABLE] │       │               │                Line 50 │ e ?</div>                   │
 [UNFIXABLE] │       │               │                Line 54 │ e ?</div>                   │
 [UNFIXABLE] │       │               │                Line 62 │ p !</div>                   │
-[UNFIXABLE] │ s-033 │ Manual Review │ chapter-52.xhtml       │ xml:lang value on <html>    │
-[UNFIXABLE] │       │               │                        │ element doesn’t match       │
-[UNFIXABLE] │       │               │                        │ language set in metadata.   │
-[UNFIXABLE] │       │               │                 Line 2 │ Found: en-GB                │
-[UNFIXABLE] │       │               │                        │ Expected: en-US             │
-[UNFIXABLE] │ t-041 │ Error         │ chapter-52.xhtml       │ Illegal space before        │
-[UNFIXABLE] │       │               │                        │ punctuation.                │
-[UNFIXABLE] │       │               │                Line 14 │ r :</div>                   │
-[UNFIXABLE] │       │               │                Line 17 │ l :</div>                   │
-[UNFIXABLE] │       │               │                Line 19 │ s ; and I kne               │
 [UNFIXABLE] │ s-033 │ Manual Review │ chapter-53.xhtml       │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
 [UNFIXABLE] │       │               │                 Line 2 │ Found: en-GB                │
 [UNFIXABLE] │       │               │                        │ Expected: en-US             │
 [UNFIXABLE] │ t-041 │ Error         │ chapter-53.xhtml       │ Illegal space before        │
+[UNFIXABLE] │       │               │                        │ punctuation.                │
+[UNFIXABLE] │       │               │                Line 14 │ r :</div>                   │
+[UNFIXABLE] │       │               │                Line 17 │ l :</div>                   │
+[UNFIXABLE] │       │               │                Line 19 │ s ; and I kne               │
+[UNFIXABLE] │ s-033 │ Manual Review │ chapter-54.xhtml       │ xml:lang value on <html>    │
+[UNFIXABLE] │       │               │                        │ element doesn’t match       │
+[UNFIXABLE] │       │               │                        │ language set in metadata.   │
+[UNFIXABLE] │       │               │                 Line 2 │ Found: en-GB                │
+[UNFIXABLE] │       │               │                        │ Expected: en-US             │
+[UNFIXABLE] │ t-041 │ Error         │ chapter-54.xhtml       │ Illegal space before        │
 [UNFIXABLE] │       │               │                        │ punctuation.                │
 [UNFIXABLE] │       │               │                Line 13 │ e ; look you,               │
 [UNFIXABLE] │       │               │                Line 13 │ n !</div>                   │
@@ -655,18 +623,6 @@ Generated: 2026-06-13 21:26:08
 [UNFIXABLE] │       │               │               Line 425 │ s ! I am done               │
 [UNFIXABLE] │       │               │               Line 426 │ t ! To-morrow               │
 [UNFIXABLE] │       │               │               Line 427 │ w !⁠ ⁠…</div>                 │
-[UNFIXABLE] │ s-033 │ Manual Review │ chapter-54.xhtml       │ xml:lang value on <html>    │
-[UNFIXABLE] │       │               │                        │ element doesn’t match       │
-[UNFIXABLE] │       │               │                        │ language set in metadata.   │
-[UNFIXABLE] │       │               │                 Line 2 │ Found: en-GB                │
-[UNFIXABLE] │       │               │                        │ Expected: en-US             │
-[UNFIXABLE] │ t-041 │ Error         │ chapter-54.xhtml       │ Illegal space before        │
-[UNFIXABLE] │       │               │                        │ punctuation.                │
-[UNFIXABLE] │       │               │                Line 15 │ e ; and so is               │
-[UNFIXABLE] │       │               │                Line 18 │ d :</div>                   │
-[UNFIXABLE] │       │               │                Line 22 │ y :</div>                   │
-[UNFIXABLE] │       │               │                Line 25 │ e ;</div>                   │
-[UNFIXABLE] │       │               │                Line 29 │ d ? Rather sa               │
 [UNFIXABLE] │ s-033 │ Manual Review │ chapter-55.xhtml       │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
@@ -674,17 +630,29 @@ Generated: 2026-06-13 21:26:08
 [UNFIXABLE] │       │               │                        │ Expected: en-US             │
 [UNFIXABLE] │ t-041 │ Error         │ chapter-55.xhtml       │ Illegal space before        │
 [UNFIXABLE] │       │               │                        │ punctuation.                │
-[UNFIXABLE] │       │               │                Line 42 │ e !</div>                   │
-[UNFIXABLE] │       │               │                Line 45 │ m !⁠—</div>                  │
-[UNFIXABLE] │       │               │                Line 48 │ p !⁠—</div>                  │
-[UNFIXABLE] │       │               │                Line 52 │ e !</div>                   │
-[UNFIXABLE] │       │               │                Line 58 │ e :⁠—</div>                  │
+[UNFIXABLE] │       │               │                Line 15 │ e ; and so is               │
+[UNFIXABLE] │       │               │                Line 18 │ d :</div>                   │
+[UNFIXABLE] │       │               │                Line 22 │ y :</div>                   │
+[UNFIXABLE] │       │               │                Line 25 │ e ;</div>                   │
+[UNFIXABLE] │       │               │                Line 29 │ d ? Rather sa               │
 [UNFIXABLE] │ s-033 │ Manual Review │ chapter-56.xhtml       │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
 [UNFIXABLE] │       │               │                 Line 2 │ Found: en-GB                │
 [UNFIXABLE] │       │               │                        │ Expected: en-US             │
 [UNFIXABLE] │ t-041 │ Error         │ chapter-56.xhtml       │ Illegal space before        │
+[UNFIXABLE] │       │               │                        │ punctuation.                │
+[UNFIXABLE] │       │               │                Line 42 │ e !</div>                   │
+[UNFIXABLE] │       │               │                Line 45 │ m !⁠—</div>                  │
+[UNFIXABLE] │       │               │                Line 48 │ p !⁠—</div>                  │
+[UNFIXABLE] │       │               │                Line 52 │ e !</div>                   │
+[UNFIXABLE] │       │               │                Line 58 │ e :⁠—</div>                  │
+[UNFIXABLE] │ s-033 │ Manual Review │ chapter-57.xhtml       │ xml:lang value on <html>    │
+[UNFIXABLE] │       │               │                        │ element doesn’t match       │
+[UNFIXABLE] │       │               │                        │ language set in metadata.   │
+[UNFIXABLE] │       │               │                 Line 2 │ Found: en-GB                │
+[UNFIXABLE] │       │               │                        │ Expected: en-US             │
+[UNFIXABLE] │ t-041 │ Error         │ chapter-57.xhtml       │ Illegal space before        │
 [UNFIXABLE] │       │               │                        │ punctuation.                │
 [UNFIXABLE] │       │               │                Line 13 │ y ! come away               │
 [UNFIXABLE] │       │               │                Line 16 │ r ;</div>                   │
@@ -694,12 +662,12 @@ Generated: 2026-06-13 21:26:08
 [UNFIXABLE] │       │               │                Line 42 │ r ;</div>                   │
 [UNFIXABLE] │       │               │                Line 66 │ g :</div>                   │
 [UNFIXABLE] │       │               │                Line 76 │ w :⁠—</div>                  │
-[UNFIXABLE] │ s-033 │ Manual Review │ chapter-57.xhtml       │ xml:lang value on <html>    │
+[UNFIXABLE] │ s-033 │ Manual Review │ chapter-58.xhtml       │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
 [UNFIXABLE] │       │               │                 Line 2 │ Found: en-GB                │
 [UNFIXABLE] │       │               │                        │ Expected: en-US             │
-[UNFIXABLE] │ t-041 │ Error         │ chapter-57.xhtml       │ Illegal space before        │
+[UNFIXABLE] │ t-041 │ Error         │ chapter-58.xhtml       │ Illegal space before        │
 [UNFIXABLE] │       │               │                        │ punctuation.                │
 [UNFIXABLE] │       │               │                Line 18 │ y ;</div>                   │
 [UNFIXABLE] │       │               │                Line 25 │ h ;</div>                   │
@@ -730,14 +698,6 @@ Generated: 2026-06-13 21:26:08
 [UNFIXABLE] │       │               │               Line 267 │ e ;</div>                   │
 [UNFIXABLE] │       │               │               Line 270 │ t ;</div>                   │
 [UNFIXABLE] │       │               │               Line 280 │ t ; but the w               │
-[UNFIXABLE] │ s-033 │ Manual Review │ chapter-58.xhtml       │ xml:lang value on <html>    │
-[UNFIXABLE] │       │               │                        │ element doesn’t match       │
-[UNFIXABLE] │       │               │                        │ language set in metadata.   │
-[UNFIXABLE] │       │               │                 Line 2 │ Found: en-GB                │
-[UNFIXABLE] │       │               │                        │ Expected: en-US             │
-[UNFIXABLE] │ t-041 │ Error         │ chapter-58.xhtml       │ Illegal space before        │
-[UNFIXABLE] │       │               │                        │ punctuation.                │
-[UNFIXABLE] │       │               │                Line 22 │ h ;</div>                   │
 [UNFIXABLE] │ s-033 │ Manual Review │ chapter-59.xhtml       │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
@@ -745,11 +705,7 @@ Generated: 2026-06-13 21:26:08
 [UNFIXABLE] │       │               │                        │ Expected: en-US             │
 [UNFIXABLE] │ t-041 │ Error         │ chapter-59.xhtml       │ Illegal space before        │
 [UNFIXABLE] │       │               │                        │ punctuation.                │
-[UNFIXABLE] │       │               │                Line 14 │ s ;</div>                   │
-[UNFIXABLE] │       │               │                Line 15 │ e :⁠—</div>                  │
-[UNFIXABLE] │       │               │                Line 17 │ s ?⁠ ⁠… But w                 │
-[UNFIXABLE] │       │               │                Line 22 │ l ;</div>                   │
-[UNFIXABLE] │       │               │                Line 24 │ l ;</div>                   │
+[UNFIXABLE] │       │               │                Line 22 │ h ;</div>                   │
 [UNFIXABLE] │ s-033 │ Manual Review │ chapter-60.xhtml       │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
@@ -757,8 +713,11 @@ Generated: 2026-06-13 21:26:08
 [UNFIXABLE] │       │               │                        │ Expected: en-US             │
 [UNFIXABLE] │ t-041 │ Error         │ chapter-60.xhtml       │ Illegal space before        │
 [UNFIXABLE] │       │               │                        │ punctuation.                │
-[UNFIXABLE] │       │               │                Line 14 │ t ;</div>                   │
-[UNFIXABLE] │       │               │                Line 16 │ y ; but when<               │
+[UNFIXABLE] │       │               │                Line 14 │ s ;</div>                   │
+[UNFIXABLE] │       │               │                Line 15 │ e :⁠—</div>                  │
+[UNFIXABLE] │       │               │                Line 17 │ s ?⁠ ⁠… But w                 │
+[UNFIXABLE] │       │               │                Line 22 │ l ;</div>                   │
+[UNFIXABLE] │       │               │                Line 24 │ l ;</div>                   │
 [UNFIXABLE] │ s-033 │ Manual Review │ chapter-61.xhtml       │ xml:lang value on <html>    │
 [UNFIXABLE] │       │               │                        │ element doesn’t match       │
 [UNFIXABLE] │       │               │                        │ language set in metadata.   │
@@ -766,11 +725,19 @@ Generated: 2026-06-13 21:26:08
 [UNFIXABLE] │       │               │                        │ Expected: en-US             │
 [UNFIXABLE] │ t-041 │ Error         │ chapter-61.xhtml       │ Illegal space before        │
 [UNFIXABLE] │       │               │                        │ punctuation.                │
+[UNFIXABLE] │       │               │                Line 14 │ t ;</div>                   │
+[UNFIXABLE] │       │               │                Line 16 │ y ; but when<               │
+[UNFIXABLE] │ s-033 │ Manual Review │ chapter-62.xhtml       │ xml:lang value on <html>    │
+[UNFIXABLE] │       │               │                        │ element doesn’t match       │
+[UNFIXABLE] │       │               │                        │ language set in metadata.   │
+[UNFIXABLE] │       │               │                 Line 2 │ Found: en-GB                │
+[UNFIXABLE] │       │               │                        │ Expected: en-US             │
+[UNFIXABLE] │ t-041 │ Error         │ chapter-62.xhtml       │ Illegal space before        │
+[UNFIXABLE] │       │               │                        │ punctuation.                │
 [UNFIXABLE] │       │               │                Line 16 │ d ;</div>                   │
-[UNFIXABLE] │ m-028 │ Error         │ content.opf            │ Images found in ebook, but  │
-[UNFIXABLE] │       │               │                        │ no schema:accessMode        │
-[UNFIXABLE] │       │               │                        │ property set to visual in   │
-[UNFIXABLE] │       │               │                        │ metadata.                   │
+[UNFIXABLE] │ m-022 │ Error         │ content.opf            │ Empty element in metadata.  │
+[UNFIXABLE] │       │               │                Line 69 │ <meta content="cover.svg"   │
+[UNFIXABLE] │       │               │                        │ name="cover"/>              │
 [UNFIXABLE] │ m-040 │ Error         │ content.opf            │ Images found in ebook, but  │
 [UNFIXABLE] │       │               │                        │ no role property set to wat │
 [UNFIXABLE] │       │               │                        │ in metadata for the writer  │
@@ -784,7 +751,7 @@ Generated: 2026-06-13 21:26:08
 [UNFIXABLE] │       │               │                        │ instance of their name is   │
 [UNFIXABLE] │       │               │                        │ not linked to their S.E.    │
 [UNFIXABLE] │       │               │                        │ author page.                │
-[UNFIXABLE] │       │               │                Line 38 │ <p>Children of the Night by │
+[UNFIXABLE] │       │               │                Line 41 │ <p>Children of the Night by │
 [UNFIXABLE] │       │               │                        │ Robinson, Edwin             │
 [UNFIXABLE] │       │               │                        │ Arlington.</p>              │
 [UNFIXABLE] │ s-020 │ Error         │ content.opf            │ Frontmatter found, but no   │
@@ -805,151 +772,144 @@ Generated: 2026-06-13 21:26:08
 [UNFIXABLE] │       │               │                 Line 9 │ z3998:dedication            │
 [UNFIXABLE] │ t-008 │ Manual Review │ imprint.xhtml          │ Repeated punctuation.       │
 [UNFIXABLE] │       │               │                Line 21 │ n..</p>                     │
+[UNFIXABLE] │ y-003 │ Manual Review │ imprint.xhtml          │ Possible typo: Paragraph    │
+[UNFIXABLE] │       │               │                        │ missing ending punctuation. │
+[UNFIXABLE] │       │               │                Line 26 │ <p>Cover image: Source      │
+[UNFIXABLE] │       │               │                        │ unknown. Via Wikimedia      │
+[UNFIXABLE] │       │               │                        │ Commons</p>                 │
 [UNFIXABLE] │ c-002 │ Error         │ local.css              │ Unused CSS selectors.       │
-[UNFIXABLE] │       │               │                Line 13 │ body [xml|lang]             │
-[UNFIXABLE] │       │               │                Line 17 │ blockquote[xml|lang]        │
-[UNFIXABLE] │       │               │                Line 34 │ figure.full-page            │
-[UNFIXABLE] │       │               │                Line 40 │ article                     │
-[UNFIXABLE] │       │               │                Line 46 │ [epub|type~="dedication"]   │
+[UNFIXABLE] │       │               │                Line 10 │ body [xml|lang]             │
+[UNFIXABLE] │       │               │                Line 14 │ blockquote[xml|lang]        │
+[UNFIXABLE] │       │               │                Line 31 │ figure.full-page            │
+[UNFIXABLE] │       │               │                Line 37 │ article                     │
+[UNFIXABLE] │       │               │                Line 43 │ [epub|type~="dedication"]   │
 [UNFIXABLE] │       │               │                        │ header p                    │
-[UNFIXABLE] │       │               │                Line 51 │ [epub|type~="dedication"]   │
+[UNFIXABLE] │       │               │                Line 48 │ [epub|type~="dedication"]   │
 [UNFIXABLE] │       │               │                        │ footer p                    │
-[UNFIXABLE] │       │               │                Line 55 │ [epub|type~="dedication"]   │
-[UNFIXABLE] │       │               │                Line 59 │ [epub|type~="dedication"] > │
+[UNFIXABLE] │       │               │                Line 52 │ [epub|type~="dedication"]   │
+[UNFIXABLE] │       │               │                Line 56 │ [epub|type~="dedication"] > │
 [UNFIXABLE] │       │               │                        │ p                           │
-[UNFIXABLE] │       │               │                Line 64 │ section[epub|type~="dedica… │
-[UNFIXABLE] │       │               │                Line 73 │ [epub|type~="epigraph"]     │
-[UNFIXABLE] │       │               │                Line 79 │ [epub|type~="epigraph"] i   │
-[UNFIXABLE] │       │               │                Line 83 │ [epub|type~="epigraph"]     │
+[UNFIXABLE] │       │               │                Line 61 │ section[epub|type~="dedica… │
+[UNFIXABLE] │       │               │                Line 70 │ [epub|type~="epigraph"]     │
+[UNFIXABLE] │       │               │                Line 76 │ [epub|type~="epigraph"] i   │
+[UNFIXABLE] │       │               │                Line 80 │ [epub|type~="epigraph"]     │
 [UNFIXABLE] │       │               │                        │ cite                        │
-[UNFIXABLE] │       │               │                Line 89 │ section > header            │
+[UNFIXABLE] │       │               │                Line 86 │ section > header            │
 [UNFIXABLE] │       │               │                        │ [epub|type~="epigraph"]     │
-[UNFIXABLE] │       │               │                Line 96 │ section > header            │
+[UNFIXABLE] │       │               │                Line 93 │ section > header            │
 [UNFIXABLE] │       │               │                        │ [epub|type~="epigraph"] + * │
-[UNFIXABLE] │       │               │               Line 101 │ section > header            │
+[UNFIXABLE] │       │               │                Line 98 │ section > header            │
 [UNFIXABLE] │       │               │                        │ [epub|type~="epigraph"]     │
-[UNFIXABLE] │       │               │               Line 107 │ [epub|type~="z3998:poem"] p │
-[UNFIXABLE] │       │               │               Line 108 │ [epub|type~="z3998:song"] p │
-[UNFIXABLE] │       │               │               Line 109 │ [epub|type~="z3998:verse"]  │
+[UNFIXABLE] │       │               │               Line 104 │ [epub|type~="z3998:poem"] p │
+[UNFIXABLE] │       │               │               Line 105 │ [epub|type~="z3998:song"] p │
+[UNFIXABLE] │       │               │               Line 106 │ [epub|type~="z3998:verse"]  │
 [UNFIXABLE] │       │               │                        │ p                           │
-[UNFIXABLE] │       │               │               Line 114 │ [epub|type~="z3998:poem"] p │
+[UNFIXABLE] │       │               │               Line 111 │ [epub|type~="z3998:poem"] p │
 [UNFIXABLE] │       │               │                        │ > span                      │
-[UNFIXABLE] │       │               │               Line 115 │ [epub|type~="z3998:song"] p │
+[UNFIXABLE] │       │               │               Line 112 │ [epub|type~="z3998:song"] p │
 [UNFIXABLE] │       │               │                        │ > span                      │
-[UNFIXABLE] │       │               │               Line 116 │ [epub|type~="z3998:verse"]  │
+[UNFIXABLE] │       │               │               Line 113 │ [epub|type~="z3998:verse"]  │
 [UNFIXABLE] │       │               │                        │ p > span                    │
-[UNFIXABLE] │       │               │               Line 122 │ [epub|type~="z3998:poem"] p │
+[UNFIXABLE] │       │               │               Line 119 │ [epub|type~="z3998:poem"] p │
 [UNFIXABLE] │       │               │                        │ > span + br                 │
-[UNFIXABLE] │       │               │               Line 123 │ [epub|type~="z3998:song"] p │
+[UNFIXABLE] │       │               │               Line 120 │ [epub|type~="z3998:song"] p │
 [UNFIXABLE] │       │               │                        │ > span + br                 │
-[UNFIXABLE] │       │               │               Line 124 │ [epub|type~="z3998:verse"]  │
+[UNFIXABLE] │       │               │               Line 121 │ [epub|type~="z3998:verse"]  │
 [UNFIXABLE] │       │               │                        │ p > span + br               │
-[UNFIXABLE] │       │               │               Line 128 │ [epub|type~="z3998:poem"] p │
+[UNFIXABLE] │       │               │               Line 125 │ [epub|type~="z3998:poem"] p │
 [UNFIXABLE] │       │               │                        │ + p                         │
-[UNFIXABLE] │       │               │               Line 129 │ [epub|type~="z3998:song"] p │
+[UNFIXABLE] │       │               │               Line 126 │ [epub|type~="z3998:song"] p │
 [UNFIXABLE] │       │               │                        │ + p                         │
-[UNFIXABLE] │       │               │               Line 134 │ [epub|type~="z3998:poem"]   │
+[UNFIXABLE] │       │               │               Line 131 │ [epub|type~="z3998:poem"]   │
 [UNFIXABLE] │       │               │                        │ hgroup p                    │
-[UNFIXABLE] │       │               │               Line 135 │ [epub|type~="z3998:poem"]   │
+[UNFIXABLE] │       │               │               Line 132 │ [epub|type~="z3998:poem"]   │
 [UNFIXABLE] │       │               │                        │ div header p                │
-[UNFIXABLE] │       │               │               Line 136 │ [epub|type~="z3998:song"]   │
+[UNFIXABLE] │       │               │               Line 133 │ [epub|type~="z3998:song"]   │
 [UNFIXABLE] │       │               │                        │ div header p                │
-[UNFIXABLE] │       │               │               Line 140 │ [epub|type~="z3998:poem"]   │
+[UNFIXABLE] │       │               │               Line 137 │ [epub|type~="z3998:poem"]   │
 [UNFIXABLE] │       │               │                        │ div header                  │
-[UNFIXABLE] │       │               │               Line 141 │ [epub|type~="z3998:song"]   │
+[UNFIXABLE] │       │               │               Line 138 │ [epub|type~="z3998:song"]   │
 [UNFIXABLE] │       │               │                        │ div header                  │
-[UNFIXABLE] │       │               │               Line 148 │ [epub|type~="z3998:song"]   │
+[UNFIXABLE] │       │               │               Line 144 │ [epub|type~="z3998:poem"]   │
 [UNFIXABLE] │       │               │                        │ div                         │
-[UNFIXABLE] │       │               │               Line 189 │ div.stanza > div.i3         │
-[UNFIXABLE] │       │               │               Line 194 │ div.stanza > div.i4         │
-[UNFIXABLE] │       │               │               Line 199 │ div.stanza > div.i5         │
-[UNFIXABLE] │       │               │               Line 205 │ p span.i1                   │
-[UNFIXABLE] │       │               │               Line 210 │ p span.i2                   │
-[UNFIXABLE] │       │               │               Line 215 │ p span.i3                   │
-[UNFIXABLE] │       │               │               Line 220 │ p span.i4                   │
-[UNFIXABLE] │       │               │               Line 225 │ p span.i5                   │
-[UNFIXABLE] │       │               │               Line 230 │ p span.i6                   │
-[UNFIXABLE] │       │               │               Line 235 │ p span.i7                   │
-[UNFIXABLE] │       │               │               Line 240 │ p span.i8                   │
-[UNFIXABLE] │       │               │               Line 245 │ p span.i11                  │
-[UNFIXABLE] │       │               │               Line 250 │ p span.i12                  │
-[UNFIXABLE] │       │               │               Line 256 │ [epub|type~="se:bridgehead… │
-[UNFIXABLE] │       │               │               Line 265 │ footer                      │
-[UNFIXABLE] │       │               │               Line 270 │ [epub|type~="z3998:poem"]   │
+[UNFIXABLE] │       │               │               Line 145 │ [epub|type~="z3998:song"]   │
+[UNFIXABLE] │       │               │                        │ div                         │
+[UNFIXABLE] │       │               │               Line 186 │ div.stanza > div.i3         │
+[UNFIXABLE] │       │               │               Line 191 │ div.stanza > div.i4         │
+[UNFIXABLE] │       │               │               Line 196 │ div.stanza > div.i5         │
+[UNFIXABLE] │       │               │               Line 202 │ p span.i1                   │
+[UNFIXABLE] │       │               │               Line 207 │ p span.i2                   │
+[UNFIXABLE] │       │               │               Line 212 │ p span.i3                   │
+[UNFIXABLE] │       │               │               Line 217 │ p span.i4                   │
+[UNFIXABLE] │       │               │               Line 222 │ p span.i5                   │
+[UNFIXABLE] │       │               │               Line 227 │ p span.i6                   │
+[UNFIXABLE] │       │               │               Line 232 │ p span.i7                   │
+[UNFIXABLE] │       │               │               Line 237 │ p span.i8                   │
+[UNFIXABLE] │       │               │               Line 242 │ p span.i11                  │
+[UNFIXABLE] │       │               │               Line 247 │ p span.i12                  │
+[UNFIXABLE] │       │               │               Line 253 │ [epub|type~="se:bridgehead… │
+[UNFIXABLE] │       │               │               Line 262 │ footer                      │
+[UNFIXABLE] │       │               │               Line 267 │ [epub|type~="z3998:poem"]   │
 [UNFIXABLE] │       │               │                        │ footer p                    │
-[UNFIXABLE] │       │               │               Line 274 │ [epub|type~="z3998:signatu… │
-[UNFIXABLE] │       │               │               Line 279 │ blockquote                  │
-[UNFIXABLE] │       │               │               Line 283 │ blockquote p                │
-[UNFIXABLE] │       │               │               Line 288 │ section[id$="text"]         │
-[UNFIXABLE] │       │               │               Line 302 │ section#about-the-author    │
+[UNFIXABLE] │       │               │               Line 271 │ [epub|type~="z3998:signatu… │
+[UNFIXABLE] │       │               │               Line 276 │ blockquote                  │
+[UNFIXABLE] │       │               │               Line 280 │ blockquote p                │
+[UNFIXABLE] │       │               │               Line 285 │ section[id$="text"]         │
+[UNFIXABLE] │       │               │               Line 298 │ section#about-the-author    │
 [UNFIXABLE] │       │               │                        │ .center                     │
-[UNFIXABLE] │       │               │               Line 303 │ section#about-the-author    │
+[UNFIXABLE] │       │               │               Line 299 │ section#about-the-author    │
 [UNFIXABLE] │       │               │                        │ div[style*="text-align:cen… │
-[UNFIXABLE] │       │               │               Line 319 │ img.publisher-logo          │
-[UNFIXABLE] │       │               │               Line 326 │ section[epub|type~="dedica… │
-[UNFIXABLE] │       │               │               Line 334 │ section[epub|type~="dedica… │
+[UNFIXABLE] │       │               │               Line 315 │ img.publisher-logo          │
+[UNFIXABLE] │       │               │               Line 322 │ section[epub|type~="dedica… │
+[UNFIXABLE] │       │               │               Line 331 │ section[epub|type~="dedica… │
 [UNFIXABLE] │       │               │                        │ p                           │
 [UNFIXABLE] │ c-016 │ Error         │ local.css              │ Illegal text-align: left;.  │
 [UNFIXABLE] │       │               │                        │ Hint: use text-align:       │
 [UNFIXABLE] │       │               │                        │ initial; instead.           │
-[UNFIXABLE] │       │               │               Line 156 │ text-align: left;           │
-[UNFIXABLE] │       │               │               Line 295 │ text-align: left;           │
+[UNFIXABLE] │       │               │               Line 153 │ text-align: left;           │
+[UNFIXABLE] │       │               │               Line 291 │ text-align: left;           │
 [UNFIXABLE] │ x-020 │ Error         │ permissions.xhtml      │ Link to se.css in <head>,   │
 [UNFIXABLE] │       │               │                        │ but this file isn’t an S.E. │
 [UNFIXABLE] │       │               │                        │ boilerplate file.           │
 [UNFIXABLE] │       │               │                 Line 6 │ <link href="../css/se.css"  │
 [UNFIXABLE] │       │               │                        │ rel="stylesheet"            │
 [UNFIXABLE] │       │               │                        │ type="text/css">            │
-[UNFIXABLE] │ s-033 │ Manual Review │ poem-1.xhtml           │ xml:lang value on <html>    │
-[UNFIXABLE] │       │               │                        │ element doesn’t match       │
-[UNFIXABLE] │       │               │                        │ language set in metadata.   │
-[UNFIXABLE] │       │               │                 Line 2 │ Found: en-GB                │
-[UNFIXABLE] │       │               │                        │ Expected: en-US             │
-[UNFIXABLE] │ s-044 │ Manual Review │ poem-1.xhtml           │ Element with poem or verse  │
-[UNFIXABLE] │       │               │                        │ semantic, without           │
-[UNFIXABLE] │       │               │                        │ descendant <p> (stanza)     │
-[UNFIXABLE] │       │               │                        │ element.                    │
-[UNFIXABLE] │       │               │                 Line 9 │ <section id="poem-1"        │
-[UNFIXABLE] │       │               │                        │ epub:type="z3998:poem">     │
-[UNFIXABLE] │ t-041 │ Error         │ poem-1.xhtml           │ Illegal space before        │
-[UNFIXABLE] │       │               │                        │ punctuation.                │
-[UNFIXABLE] │       │               │                Line 25 │ s ;</div>                   │
 [UNFIXABLE] │ m-048 │ Error         │ se-lint-ignore.xml     │ Unused ignore rule.         │
-[UNFIXABLE] │       │               │                 Line 3 │ chapter-10.xhtml: y-007     │
-[UNFIXABLE] │       │               │                 Line 8 │ chapter-13.xhtml: y-007     │
-[UNFIXABLE] │       │               │                Line 13 │ chapter-14.xhtml: y-007     │
-[UNFIXABLE] │       │               │                Line 18 │ chapter-15.xhtml: y-007     │
-[UNFIXABLE] │       │               │                Line 23 │ chapter-17.xhtml: y-007     │
-[UNFIXABLE] │       │               │                Line 28 │ chapter-18.xhtml: y-007     │
-[UNFIXABLE] │       │               │                Line 33 │ chapter-22.xhtml: y-007     │
-[UNFIXABLE] │       │               │                Line 38 │ chapter-24.xhtml: y-007     │
-[UNFIXABLE] │       │               │                Line 43 │ chapter-27.xhtml: y-007     │
-[UNFIXABLE] │       │               │                Line 48 │ chapter-28.xhtml: y-007     │
-[UNFIXABLE] │       │               │                Line 53 │ chapter-29.xhtml: y-007     │
-[UNFIXABLE] │       │               │                Line 58 │ chapter-30.xhtml: y-007     │
-[UNFIXABLE] │       │               │                Line 63 │ chapter-32.xhtml: y-007     │
-[UNFIXABLE] │       │               │                Line 68 │ chapter-34.xhtml: y-007     │
-[UNFIXABLE] │       │               │                Line 73 │ chapter-35.xhtml: y-007     │
-[UNFIXABLE] │       │               │                Line 78 │ chapter-38.xhtml: y-007     │
-[UNFIXABLE] │       │               │                Line 83 │ chapter-40.xhtml: y-007     │
-[UNFIXABLE] │       │               │                Line 88 │ chapter-41.xhtml: y-007     │
-[UNFIXABLE] │       │               │                Line 93 │ chapter-43.xhtml: y-007     │
-[UNFIXABLE] │       │               │                Line 98 │ chapter-48.xhtml: y-007     │
-[UNFIXABLE] │       │               │               Line 103 │ chapter-49.xhtml: y-007     │
-[UNFIXABLE] │       │               │               Line 108 │ chapter-50.xhtml: y-007     │
-[UNFIXABLE] │       │               │               Line 113 │ chapter-51.xhtml: y-007     │
-[UNFIXABLE] │       │               │               Line 118 │ chapter-52.xhtml: y-007     │
-[UNFIXABLE] │       │               │               Line 123 │ chapter-53.xhtml: y-007     │
-[UNFIXABLE] │       │               │               Line 128 │ chapter-54.xhtml: y-007     │
-[UNFIXABLE] │       │               │               Line 133 │ chapter-55.xhtml: y-007     │
-[UNFIXABLE] │       │               │               Line 138 │ chapter-56.xhtml: y-007     │
-[UNFIXABLE] │       │               │               Line 143 │ chapter-57.xhtml: y-007     │
-[UNFIXABLE] │       │               │               Line 148 │ chapter-59.xhtml: y-007     │
-[UNFIXABLE] │       │               │               Line 153 │ chapter-6.xhtml: y-007      │
-[UNFIXABLE] │       │               │               Line 158 │ chapter-60.xhtml: y-007     │
-[UNFIXABLE] │       │               │               Line 163 │ chapter-61.xhtml: y-007     │
-[UNFIXABLE] │       │               │               Line 168 │ chapter-7.xhtml: y-007      │
-[UNFIXABLE] │       │               │               Line 173 │ chapter-8.xhtml: y-007      │
+[UNFIXABLE] │       │               │                 Line 3 │ chapter-6.xhtml: y-007      │
+[UNFIXABLE] │       │               │                 Line 8 │ chapter-7.xhtml: y-007      │
+[UNFIXABLE] │       │               │                Line 13 │ chapter-8.xhtml: y-007      │
+[UNFIXABLE] │       │               │                Line 18 │ chapter-10.xhtml: y-007     │
+[UNFIXABLE] │       │               │                Line 23 │ chapter-13.xhtml: y-007     │
+[UNFIXABLE] │       │               │                Line 28 │ chapter-14.xhtml: y-007     │
+[UNFIXABLE] │       │               │                Line 33 │ chapter-15.xhtml: y-007     │
+[UNFIXABLE] │       │               │                Line 38 │ chapter-17.xhtml: y-007     │
+[UNFIXABLE] │       │               │                Line 43 │ chapter-18.xhtml: y-007     │
+[UNFIXABLE] │       │               │                Line 48 │ chapter-22.xhtml: y-007     │
+[UNFIXABLE] │       │               │                Line 53 │ chapter-24.xhtml: y-007     │
+[UNFIXABLE] │       │               │                Line 58 │ chapter-27.xhtml: y-007     │
+[UNFIXABLE] │       │               │                Line 63 │ chapter-28.xhtml: y-007     │
+[UNFIXABLE] │       │               │                Line 68 │ chapter-29.xhtml: y-007     │
+[UNFIXABLE] │       │               │                Line 73 │ chapter-30.xhtml: y-007     │
+[UNFIXABLE] │       │               │                Line 78 │ chapter-32.xhtml: y-007     │
+[UNFIXABLE] │       │               │                Line 83 │ chapter-34.xhtml: y-007     │
+[UNFIXABLE] │       │               │                Line 88 │ chapter-35.xhtml: y-007     │
+[UNFIXABLE] │       │               │                Line 93 │ chapter-38.xhtml: y-007     │
+[UNFIXABLE] │       │               │                Line 98 │ chapter-40.xhtml: y-007     │
+[UNFIXABLE] │       │               │               Line 103 │ chapter-41.xhtml: y-007     │
+[UNFIXABLE] │       │               │               Line 108 │ chapter-43.xhtml: y-007     │
+[UNFIXABLE] │       │               │               Line 113 │ chapter-48.xhtml: y-007     │
+[UNFIXABLE] │       │               │               Line 118 │ chapter-49.xhtml: y-007     │
+[UNFIXABLE] │       │               │               Line 123 │ chapter-50.xhtml: y-007     │
+[UNFIXABLE] │       │               │               Line 128 │ chapter-51.xhtml: y-007     │
+[UNFIXABLE] │       │               │               Line 133 │ chapter-52.xhtml: y-007     │
+[UNFIXABLE] │       │               │               Line 138 │ chapter-53.xhtml: y-007     │
+[UNFIXABLE] │       │               │               Line 143 │ chapter-54.xhtml: y-007     │
+[UNFIXABLE] │       │               │               Line 148 │ chapter-55.xhtml: y-007     │
+[UNFIXABLE] │       │               │               Line 153 │ chapter-56.xhtml: y-007     │
+[UNFIXABLE] │       │               │               Line 158 │ chapter-57.xhtml: y-007     │
+[UNFIXABLE] │       │               │               Line 163 │ chapter-59.xhtml: y-007     │
+[UNFIXABLE] │       │               │               Line 168 │ chapter-60.xhtml: y-007     │
+[UNFIXABLE] │       │               │               Line 173 │ chapter-61.xhtml: y-007     │
 [UNFIXABLE] │       │               │               Line 178 │ poem-1.xhtml: y-007         │
 [UNFIXABLE] │       │               │               Line 183 │ uncopyright.xhtml: y-007    │
 
