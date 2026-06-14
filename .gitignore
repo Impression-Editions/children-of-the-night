@@ -1,0 +1,23 @@
+# Build outputs — published as GitHub release assets, not committed
+*.epub
+*.azw3
+*_files/
+*.html
+spot_check_report.json
+
+# Pipeline reports
+review-report.txt
+lint-report.txt
+
+# Pipeline working copies (regenerated from override)
+images/cover.jpg
+images/cover.svg
+
+# Auto-downloaded PG cover images (not needed when override exists)
+src/epub/images/pg*_cover*.jpg
+src/epub/images/cover.source.jpg
+
+# Dotfiles
+.*
+Thumbs.db
+images/cover.svg
